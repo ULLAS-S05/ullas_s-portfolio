@@ -38,7 +38,7 @@ function Hero() {
       {/* BUTTONS */}
       <div className="mt-6 flex flex-wrap justify-center gap-4">
         <a
-          href="/Ullas S(4).pdf"
+          href="/Ullas S (4).pdf"
           target="_blank"
           className="border px-5 py-2 rounded-full hover:bg-white hover:text-black transition"
         >
@@ -46,7 +46,7 @@ function Hero() {
         </a>
 
         <a
-          href="/Ullas S(4).pdf"
+          href="/Ullas S (4).pdf"
           download
           className="bg-blue-500 px-5 py-2 rounded-full hover:scale-105 transition"
         >
